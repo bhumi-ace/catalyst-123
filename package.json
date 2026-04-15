@@ -1,5 +1,5 @@
 {
 	"dependencies": {
-		"@makeswift/runtime": "^0.28.3"
+		"@makeswift/runtime": "^0.28.4"
 	}
 }  
